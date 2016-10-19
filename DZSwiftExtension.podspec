@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
   s.name             = "DZSwiftExtension" 
-  s.version          = "1.0.1" 
+  s.version          = "1.0.2" 
   s.summary          = "Swift延展"  
   s.homepage         = "https://github.com/mayaosb2/DZSwiftExtension"   
   s.license          = 'MIT'  
